@@ -1,5 +1,7 @@
-# JP Manuals
-This repository contains the Manuals and [Issues](https://github.com/patheros/JPManuals/issues) for the JP plugins for VCV Rack.
+# JP Plugins
+JP are a collection of plugins created in colaboration between Joop and Path Set. JP modules offer deep musical composition tools.
+
+This repository contains the manuals and [issues](https://github.com/patheros/JPManuals/issues) for those plugins.
 
 # JP Lab
 
