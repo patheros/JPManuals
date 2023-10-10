@@ -5,12 +5,12 @@ This repository contains the manuals and [issues](https://github.com/patheros/JP
 
 # JP Lab
 
-Comming Soon to the VCV Library <!-- [JP Lab in VCV Libary](https://library.vcvrack.com/JPLab) -->
+[JP Lab in VCV Libary](https://library.vcvrack.com/JPLab)
 
 [JP Lab Manual](https://github.com/patheros/JPManuals/blob/main/JPLab.pdf)
 
 # JP Free
 
-Comming Soon to the VCV Library <!--[JP Free in Libary Page](https://library.vcvrack.com/JPFree)-->
+[JP Free in Libary Page](https://library.vcvrack.com/JPFree)
 
 [JP Free Manual](https://github.com/patheros/JPManuals/blob/main/JPFree.pdf)
